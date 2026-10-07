@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "twikoo-netlify": "latest"
+    "twikoo-netlify": "latest",
+    "@twikoojs/common": "npm:@yokipeek/common@2.0.12"
   },
   "engines": {
     "node": ">=22.12.0"
