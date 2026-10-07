@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "twikoo-netlify": "latest",
+    "twikoo-netlify": "latest"
+  },
+  "overrides": {
     "@twikoojs/common": "npm:@yokipeek/common@2.0.12"
   },
   "engines": {
